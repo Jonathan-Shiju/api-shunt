@@ -1,2 +1,2 @@
-# resilient-transaction-system
-Repository simulates a highly scalable and resilient transaction system using API Monitoring - Middleware - Temporal Data Analysis
+# api-shunt
+Repository aims to define intelligent middleware for API remediation in response to API failovers
